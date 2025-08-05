@@ -11,8 +11,8 @@ int main(){
   gameDesc();
 
   //Game loop
-  while(getPlayerInput()){
+  while(getPlayerInput()){};
 
-  };
+  cout << "NB: You'll earn points at each right answer found";
   return 0;
 }
